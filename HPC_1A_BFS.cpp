@@ -69,3 +69,7 @@ int main() {
 
     return 0;
 }
+
+
+// Compile command: g++ -fopenmp program.cpp -o program.  
+//Run command: ./program
